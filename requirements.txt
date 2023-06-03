@@ -1,0 +1,5 @@
+colorama==0.4.6
+Pillow==9.5.0
+progressbar2==4.2.0
+python-utils==3.5.2
+tqdm==4.65.0
