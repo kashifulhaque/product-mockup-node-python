@@ -1,17 +1,16 @@
-## **Generate product mockups using ImageMagick**
-Generate mockups using [ImageMagick](https://imagemagick.org/index.php)
+## **Generate mockups using [ImageMagick](https://imagemagick.org/index.php)**
 -----------------------------------------------------------------------
 
 **I think you should read my blog post regarding this, [click here](https://ifkash.hashnode.dev/imagemagick-product-mockups)**
 Even if you don't read the blog, I will TL;DR it here for you.
 
-#### **What is a product mockup?**
+### **What is a product mockup?**
 A product mockup is a digital representation of what the physical product is supposed to look like. You see a t-shirt, wonder what it would look like with a design you fancy, make a product mockup
 
-#### **Why node, python or ImageMagick to create product mockup?**
+### **Why node, python or ImageMagick to create product mockup?**
 Well, you can create product mockups very easily using tools like Adobe Photoshop, but what if you have to create product mockups on thousands of items, on demand, and on a web server environment? You rely on tools like ImageMagick
 
-#### **Steps to use this repo**
+### **Steps to use this repo**
 
 1. Clone this repo first `git clone https://github.com/kashifulhaque/product-mockup-node-python`
 2. `cd product-mockup-node-python`
