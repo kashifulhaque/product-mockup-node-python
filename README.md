@@ -1,5 +1,4 @@
 ## **Generate mockups using [ImageMagick](https://imagemagick.org/index.php)**
------------------------------------------------------------------------
 
 **I think you should read my blog post regarding this, [click here](https://ifkash.hashnode.dev/imagemagick-product-mockups)**
 Even if you don't read the blog, I will TL;DR it here for you.
